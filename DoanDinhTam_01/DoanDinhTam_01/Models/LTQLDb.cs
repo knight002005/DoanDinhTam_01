@@ -15,6 +15,7 @@ namespace DoanDinhTam_01.Models
         public virtual DbSet<LopHoc> LopHocs { get; set; }
         public virtual DbSet<SinhVien> SinhViens { get; set; }
         public virtual DbSet<Acount> Acount { get; set; }
+        public virtual DbSet<DEMO> DEMOs { get; set; }
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
         }

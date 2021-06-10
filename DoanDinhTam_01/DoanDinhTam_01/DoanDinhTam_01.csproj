@@ -153,6 +153,7 @@
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Acount.cs" />
+    <Compile Include="Models\DEMO.cs" />
     <Compile Include="Models\LopHoc.cs" />
     <Compile Include="Models\LTQLDb.cs" />
     <Compile Include="Models\SinhVien.cs" />
